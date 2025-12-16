@@ -1,1 +1,31 @@
+{
+  "veteranen": {
+    "ranking": [
+      { "pos": 1, "team": "VVS Veteranen", "points": 30 },
+      { "pos": 2, "team": "Holsbeek", "points": 27 }
+    ],
+    "next_match": {
+      "opponent": "Aarschot",
+      "date": "22/09/2025",
+      "home": true
+    },
+    "results": [
+      "VVS 2 - 1 Leuven",
+      "VVS 1 - 1 Diest"
+    ]
+  },
 
+  "zaterdag": {
+    "ranking": [
+      { "pos": 3, "team": "VVS Zaterdag", "points": 24 }
+    ],
+    "next_match": {
+      "opponent": "Begijnendijk",
+      "date": "21/09/2025",
+      "home": false
+    },
+    "results": [
+      "VVS 0 - 2 Aarschot"
+    ]
+  }
+}
