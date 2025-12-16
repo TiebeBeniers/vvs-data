@@ -17,7 +17,66 @@
 
   "zaterdag": {
     "ranking": [
-      { "pos": 3, "team": "VVS Zaterdag", "points": 24 }
+      {
+        "pos": 6,
+        "team": "FC Massis Zaventem",
+        "played": 12,
+        "won": 5,
+        "lost": 5,
+        "draw": 2,
+        "goals_for": 34,
+        "goals_against": 31,
+        "goal_diff": 3,
+        "points": 17
+      },
+      {
+        "pos": 7,
+        "team": "REMY Boys Wijgmaal B",
+        "played": 11,
+        "won": 4,
+        "lost": 6,
+        "draw": 1,
+        "goals_for": 22,
+        "goals_against": 27,
+        "goal_diff": 13,
+        "points": 9
+      },
+      {
+        "pos": 7,
+        "team": "V.V.S Rotselaar",
+        "played": 12,
+        "won": 4,
+        "lost": 7,
+        "draw": 1,
+        "goals_for": 34,
+        "goals_against": 40,
+        "goal_diff": -6,
+        "points": 13
+      },
+      {
+        "pos": 7,
+        "team": "Alpia Tildonk",
+        "played": 14,
+        "won": 4,
+        "lost": 7,
+        "draw": 1,
+        "goals_for": 24,
+        "goals_against": 47,
+        "goal_diff": -23,
+        "points": 13
+      },
+      {
+        "pos": 10,
+        "team": "Knepper Leefdaal B",
+        "played": 13,
+        "won": 3,
+        "lost": 10,
+        "draw": 0,
+        "goals_for": 26,
+        "goals_against": 36,
+        "goal_diff": -10,
+        "points": 9
+      }
     ],
     "next_match": {
       "opponent": "Begijnendijk",
