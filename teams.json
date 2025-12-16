@@ -27,5 +27,16 @@
     "results": [
       "VVS 0 - 2 Aarschot"
     ]
-  }
+  },
+  "zondag": {
+      "ranking": [
+      { "pos": 2, "team": "VVS Zondag", "points": 28 }
+    ],
+        "next_match": {
+            "opponent": "",
+            "date": "",
+            "home": true
+        },
+        "results": []
+    }
 }
