@@ -151,6 +151,26 @@
   "zondag": {
     "ranking": [
       {
+        "pos": 1,
+        "team": "VK Wakkerzeel",
+        "played": 12,
+        "won": 9,
+        "lost": 2,
+        "draw": 1,
+        "goals_for": 39,
+        "goals_against": 21
+      },
+      {
+        "pos": 2,
+        "team": "V.K. Eendracht Eizer",
+        "played": 12,
+        "won": 7,
+        "lost": 1,
+        "draw": 4,
+        "goals_for": 39,
+        "goals_against": 8
+      },
+      {
         "pos": 3,
         "team": "V.V.S Rotselaar",
         "played": 11,
@@ -159,6 +179,66 @@
         "draw": 3,
         "goals_for": 35,
         "goals_against": 11
+      },
+      {
+        "pos": 3,
+        "team": "K.F.C. Werchter",
+        "played": 12,
+        "won": 7,
+        "lost": 2,
+        "draw": 3,
+        "goals_for": 30,
+        "goals_against": 16
+      },
+      {
+        "pos": 5,
+        "team": "Sparta Melsbroek",
+        "played": 13,
+        "won": 6,
+        "lost": 5,
+        "draw": 2,
+        "goals_for": 51,
+        "goals_against": 28
+      },
+      {
+        "pos": 6,
+        "team": "Haacht United",
+        "played": 12,
+        "won": 6,
+        "lost": 5,
+        "draw": 1,
+        "goals_for": 38,
+        "goals_against": 19
+      },
+      {
+        "pos": 7,
+        "team": "K.F.C. Herent",
+        "played": 12,
+        "won": 2,
+        "lost": 10,
+        "draw": 0,
+        "goals_for": 11,
+        "goals_against": 67
+      },
+      {
+        "pos": 8,
+        "team": "FC Vilv Heverlee",
+        "played": 12,
+        "won": 1,
+        "lost": 9,
+        "draw": 2,
+        "goals_for": 13,
+        "goals_against": 39
+      },
+      {
+        "pos": 5,
+        "team": "K.N.V.L.H. Keerbergen",
+        "played": 12,
+        "won": 0,
+        "lost": 12,
+        "draw": 0,
+        "goals_for": 5,
+        "goals_against": 62
       }
     ],
     "next_match": {
