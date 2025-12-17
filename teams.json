@@ -2,6 +2,36 @@
   "veteranen": {
     "ranking": [
       {
+        "pos": 13,
+        "team": "V.V.S Rotselaar",
+        "played": 14,
+        "won": 3,
+        "lost": 10,
+        "draw": 1,
+        "goals_for": 16,
+        "goals_against": 47
+      }
+    ],
+    "next_match": {
+      "date": "09/01/2026",
+      "time": "20u30",
+      "home": true,
+      "opponent": "FC Tabor Heverlee"
+    },
+    "past_matches": [
+      {
+        "date": "05/12/2025",
+        "home": "V.V.S Rotselaar",
+        "away": "VC Bertem-Leefdaal B",
+        "home_goals": 0,
+        "away_goals": 1
+      }
+    ]
+  },
+
+  "zaterdag": {
+    "ranking": [
+      {
         "pos": 1,
         "team": "Perk Steenokkerzeel 1820",
         "played": 14,
@@ -9,7 +39,7 @@
         "lost": 2,
         "draw": 2,
         "goals_for": 47,
-        "goals_against": 13,
+        "goals_against": 13
       },
       {
         "pos": 2,
@@ -19,7 +49,7 @@
         "lost": 2,
         "draw": 1,
         "goals_for": 30,
-        "goals_against": 22,
+        "goals_against": 22
       },
       {
         "pos": 3,
@@ -29,7 +59,7 @@
         "lost": 4,
         "draw": 1,
         "goals_for": 42,
-        "goals_against": 41,
+        "goals_against": 41
       },
       {
         "pos": 4,
@@ -39,7 +69,7 @@
         "lost": 2,
         "draw": 4,
         "goals_for": 37,
-        "goals_against": 27,
+        "goals_against": 27
       },
       {
         "pos": 5,
@@ -49,7 +79,7 @@
         "lost": 6,
         "draw": 3,
         "goals_for": 27,
-        "goals_against": 39,
+        "goals_against": 39
       },
       {
         "pos": 6,
@@ -59,7 +89,7 @@
         "lost": 5,
         "draw": 2,
         "goals_for": 34,
-        "goals_against": 31,
+        "goals_against": 31
       },
       {
         "pos": 7,
@@ -69,7 +99,7 @@
         "lost": 6,
         "draw": 1,
         "goals_for": 22,
-        "goals_against": 27,
+        "goals_against": 27
       },
       {
         "pos": 7,
@@ -79,77 +109,7 @@
         "lost": 7,
         "draw": 1,
         "goals_for": 34,
-        "goals_against": 40,
-      },
-      {
-        "pos": 7,
-        "team": "Alpia Tildonk",
-        "played": 14,
-        "won": 4,
-        "lost": 9,
-        "draw": 1,
-        "goals_for": 24,
-        "goals_against": 47,
-      },
-      {
-        "pos": 10,
-        "team": "Knepper Leefdaal B",
-        "played": 13,
-        "won": 3,
-        "lost": 10,
-        "draw": 0,
-        "goals_for": 26,
-        "goals_against": 36,
-      }
-    ],
-    "next_match": {
-      "date": "03/01/2026",
-      "time": "14u30",
-      "home": true,
-      "opponent": "Standaard Meerbeek"
-    },
-    "past_matches": [
-      {
-        "date": "13/12/2025",
-        "home": "V.V.S Rotselaar",
-        "away": "Standaard Meerbeek",
-        "home_goals": 1,
-        "away_goals": 6
-      }
-    ]
-  },
-
-  "zaterdag": {
-    "ranking": [
-      {
-        "pos": 6,
-        "team": "FC Massis Zaventem",
-        "played": 12,
-        "won": 5,
-        "lost": 5,
-        "draw": 2,
-        "goals_for": 34,
-        "goals_against": 31,
-      },
-      {
-        "pos": 7,
-        "team": "REMY Boys Wijgmaal B",
-        "played": 11,
-        "won": 4,
-        "lost": 6,
-        "draw": 1,
-        "goals_for": 22,
-        "goals_against": 27,
-      },
-      {
-        "pos": 7,
-        "team": "V.V.S Rotselaar",
-        "played": 12,
-        "won": 4,
-        "lost": 7,
-        "draw": 1,
-        "goals_for": 34,
-        "goals_against": 40,
+        "goals_against": 40
       },
       {
         "pos": 7,
@@ -159,7 +119,7 @@
         "lost": 7,
         "draw": 1,
         "goals_for": 24,
-        "goals_against": 47,
+        "goals_against": 47
       },
       {
         "pos": 10,
@@ -169,7 +129,7 @@
         "lost": 10,
         "draw": 0,
         "goals_for": 26,
-        "goals_against": 36,
+        "goals_against": 36
       }
     ],
     "next_match": {
@@ -191,69 +151,29 @@
   "zondag": {
       "ranking": [
       {
-        "pos": 6,
-        "team": "FC Massis Zaventem",
-        "played": 12,
-        "won": 5,
-        "lost": 5,
-        "draw": 2,
-        "goals_for": 34,
-        "goals_against": 31,
-      },
-      {
-        "pos": 7,
-        "team": "REMY Boys Wijgmaal B",
-        "played": 11,
-        "won": 4,
-        "lost": 6,
-        "draw": 1,
-        "goals_for": 22,
-        "goals_against": 27,
-      },
-      {
-        "pos": 7,
+        "pos": 3,
         "team": "V.V.S Rotselaar",
-        "played": 12,
-        "won": 4,
-        "lost": 7,
-        "draw": 1,
-        "goals_for": 34,
-        "goals_against": 40,
-      },
-      {
-        "pos": 7,
-        "team": "Alpia Tildonk",
-        "played": 14,
-        "won": 4,
-        "lost": 7,
-        "draw": 1,
-        "goals_for": 24,
-        "goals_against": 47,
-      },
-      {
-        "pos": 10,
-        "team": "Knepper Leefdaal B",
-        "played": 13,
-        "won": 3,
-        "lost": 10,
-        "draw": 0,
-        "goals_for": 26,
-        "goals_against": 36,
+        "played": 11,
+        "won": 7,
+        "lost": 1,
+        "draw": 3,
+        "goals_for": 35,
+        "goals_against": 11,
       }
     ],
     "next_match": {
-      "date": "03/01/2026",
-      "time": "14u30",
-      "home": true,
-      "opponent": "Standaard Meerbeek"
+      "date": "11/01/2026",
+      "time": "9u30",
+      "home": false,
+      "opponent": "KFC Herent"
     },
     "past_matches": [
       {
         "date": "13/12/2025",
-        "home": "V.V.S Rotselaar",
-        "away": "Standaard Meerbeek",
-        "home_goals": 1,
-        "away_goals": 6
+        "home": "Haacht United",
+        "away": "V.V.S Rotselaar",
+        "home_goals": 2,
+        "away_goals": 5
       }
     ]
   }
