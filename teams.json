@@ -84,8 +84,14 @@
       "home": true,
       "opponent": "Standaard Meerbeek"
     },
-    "results": [
-      "V.V.S Rotselaar 1 - 6 De Venne Aarschot B"
+    "past_matches": [
+      {
+        "date": "13/12/2025",
+        "home": "V.V.S Rotselaar",
+        "away": "Standaard Meerbeek",
+        "home_goals": 1,
+        "away_goals": 6
+      }
     ]
   },
   "zondag": {
