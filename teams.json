@@ -149,7 +149,7 @@
     ]
   },
   "zondag": {
-      "ranking": [
+    "ranking": [
       {
         "pos": 3,
         "team": "V.V.S Rotselaar",
@@ -158,7 +158,7 @@
         "lost": 1,
         "draw": 3,
         "goals_for": 35,
-        "goals_against": 11,
+        "goals_against": 11
       }
     ],
     "next_match": {
