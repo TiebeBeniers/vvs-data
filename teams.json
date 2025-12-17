@@ -2,6 +2,56 @@
   "veteranen": {
     "ranking": [
       {
+        "pos": 1,
+        "team": "Perk Steenokkerzeel 1820",
+        "played": 14,
+        "won": 10,
+        "lost": 2,
+        "draw": 2,
+        "goals_for": 47,
+        "goals_against": 13,
+      },
+      {
+        "pos": 2,
+        "team": "Buffalo Tienen",
+        "played": 10,
+        "won": 7,
+        "lost": 2,
+        "draw": 1,
+        "goals_for": 30,
+        "goals_against": 22,
+      },
+      {
+        "pos": 3,
+        "team": "Toekomst Bunsbeek",
+        "played": 11,
+        "won": 6,
+        "lost": 4,
+        "draw": 1,
+        "goals_for": 42,
+        "goals_against": 41,
+      },
+      {
+        "pos": 4,
+        "team": "De Venne Aarschot B",
+        "played": 11,
+        "won": 5,
+        "lost": 2,
+        "draw": 4,
+        "goals_for": 37,
+        "goals_against": 27,
+      },
+      {
+        "pos": 5,
+        "team": "R.C. Meldert B",
+        "played": 14,
+        "won": 5,
+        "lost": 6,
+        "draw": 3,
+        "goals_for": 27,
+        "goals_against": 39,
+      },
+      {
         "pos": 6,
         "team": "FC Massis Zaventem",
         "played": 12,
@@ -10,8 +60,6 @@
         "draw": 2,
         "goals_for": 34,
         "goals_against": 31,
-        "goal_diff": 3,
-        "points": 17
       },
       {
         "pos": 7,
@@ -22,8 +70,6 @@
         "draw": 1,
         "goals_for": 22,
         "goals_against": 27,
-        "goal_diff": 13,
-        "points": 9
       },
       {
         "pos": 7,
@@ -34,20 +80,16 @@
         "draw": 1,
         "goals_for": 34,
         "goals_against": 40,
-        "goal_diff": -6,
-        "points": 13
       },
       {
         "pos": 7,
         "team": "Alpia Tildonk",
         "played": 14,
         "won": 4,
-        "lost": 7,
+        "lost": 9,
         "draw": 1,
         "goals_for": 24,
         "goals_against": 47,
-        "goal_diff": -23,
-        "points": 13
       },
       {
         "pos": 10,
@@ -58,8 +100,6 @@
         "draw": 0,
         "goals_for": 26,
         "goals_against": 36,
-        "goal_diff": -10,
-        "points": 9
       }
     ],
     "next_match": {
@@ -90,8 +130,6 @@
         "draw": 2,
         "goals_for": 34,
         "goals_against": 31,
-        "goal_diff": 3,
-        "points": 17
       },
       {
         "pos": 7,
@@ -102,8 +140,6 @@
         "draw": 1,
         "goals_for": 22,
         "goals_against": 27,
-        "goal_diff": 13,
-        "points": 9
       },
       {
         "pos": 7,
@@ -114,8 +150,6 @@
         "draw": 1,
         "goals_for": 34,
         "goals_against": 40,
-        "goal_diff": -6,
-        "points": 13
       },
       {
         "pos": 7,
@@ -126,8 +160,6 @@
         "draw": 1,
         "goals_for": 24,
         "goals_against": 47,
-        "goal_diff": -23,
-        "points": 13
       },
       {
         "pos": 10,
@@ -138,8 +170,6 @@
         "draw": 0,
         "goals_for": 26,
         "goals_against": 36,
-        "goal_diff": -10,
-        "points": 9
       }
     ],
     "next_match": {
@@ -169,8 +199,6 @@
         "draw": 2,
         "goals_for": 34,
         "goals_against": 31,
-        "goal_diff": 3,
-        "points": 17
       },
       {
         "pos": 7,
@@ -181,8 +209,6 @@
         "draw": 1,
         "goals_for": 22,
         "goals_against": 27,
-        "goal_diff": 13,
-        "points": 9
       },
       {
         "pos": 7,
@@ -193,8 +219,6 @@
         "draw": 1,
         "goals_for": 34,
         "goals_against": 40,
-        "goal_diff": -6,
-        "points": 13
       },
       {
         "pos": 7,
@@ -205,8 +229,6 @@
         "draw": 1,
         "goals_for": 24,
         "goals_against": 47,
-        "goal_diff": -23,
-        "points": 13
       },
       {
         "pos": 10,
@@ -217,8 +239,6 @@
         "draw": 0,
         "goals_for": 26,
         "goals_against": 36,
-        "goal_diff": -10,
-        "points": 9
       }
     ],
     "next_match": {
