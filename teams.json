@@ -79,9 +79,10 @@
       }
     ],
     "next_match": {
-      "opponent": "Standaard Meerbeek",
       "date": "03/01/2026",
-      "home": true
+      "time": "14u30",
+      "home": true,
+      "opponent": "Standaard Meerbeek"
     },
     "results": [
       "V.V.S Rotselaar 1 - 6 De Venne Aarschot B"
