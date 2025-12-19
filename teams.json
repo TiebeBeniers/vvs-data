@@ -284,15 +284,15 @@
     ],
     "next_match": {
       "date": "19/12/2025",
-      "time": "10:00",
-      "opponent": "Test FC",
+      "time": "15:05",
+      "opponent": "Standaard Meerbeek",
       "home": true
     },
     "past_matches": [
       {
         "date": "13/12/2025",
         "home": "V.V.S Rotselaar",
-        "away": "Standaard Meerbeek",
+        "away": "De Venne Aarschot B",
         "home_goals": 1,
         "away_goals": 6
       }
