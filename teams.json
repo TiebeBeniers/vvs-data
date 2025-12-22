@@ -164,6 +164,16 @@
     ],
     "matches": [
       {
+        "date": "22/08/2025",
+        "description": "Bekermatch",
+        "time": "20:00",
+        "opponent": "KK Bekkevoort",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 5
+      },
+      {
         "date": "29/08/2025",
         "time": "20:30",
         "opponent": "Daring Leuven",
@@ -252,6 +262,16 @@
         "status": "past",
         "home_goals": 0,
         "away_goals": 4
+      },
+      {
+        "date": "11/11/2025",
+        "description": "Bekermatch",
+        "time": "14:30",
+        "opponent": "FC Valahia",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 2
       },
       {
         "date": "14/11/2025",
@@ -413,7 +433,117 @@
         "away_goals": 4
       },
       {
+        "date": "20/09/2025",
+        "time": "13:00",
+        "opponent": "R.C. Meldert B",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 1
+      },
+      {
+        "date": "27/09/2025",
+        "time": "14:30",
+        "opponent": "Alpia Tildonk",
+        "home": true,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 4
+      },
+      {
+        "date": "04/10/2025",
+        "time": "13:30",
+        "opponent": "Remy Boys Wijgmaal B",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 4
+      },
+      {
+        "date": "11/10/2025",
+        "time": "14:30",
+        "opponent": "Toekomst Bunsbeek",
+        "home": true,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 5
+      },
+      {
+        "date": "18/10/2025",
+        "time": "19:00",
+        "opponent": "Perk Steenokkerzeel",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 0
+      },
+      {
+        "date": "25/10/2025",
+        "description": "Bekermatch",
+        "time": "19:00",
+        "opponent": "De Venne Aarschot A",
+        "home": false,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 2
+      },
+      {
+        "date": "01/11/2025",
+        "time": "14:30",
+        "opponent": "Knepper Leefdaal B",
+        "home": true,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 5
+      },
+      {
+        "date": "15/11/2025",
+        "time": "19:15",
+        "opponent": "Buffalo Tienen",
+        "home": false,
+        "status": "past",
+        "home_goals": 6,
+        "away_goals": 4
+      },
+      {
+        "date": "22/11/2025",
+        "time": "12:00",
+        "opponent": "FC Massis",
+        "home": false,
+        "status": "past",
+        "home_goals": 4,
+        "away_goals": 3
+      },
+      {
+        "date": "29/11/2025",
+        "time": "14:30",
+        "opponent": "R.C. Meldert B",
+        "home": true,
+        "status": "past",
+        "home_goals": 5,
+        "away_goals": 1
+      },
+      {
+        "date": "6/12/2025",
+        "time": "13:00",
+        "opponent": "Alpia Tildonk",
+        "home": false,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 4
+      },
+      {
+        "date": "13/12/2025",
+        "time": "14:30",
+        "opponent": "De Venne Aarschot B",
+        "home": true,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 6
+      },
+      {
         "date": "03/01/2026",
+        "description" : "Bekermatch",
         "time": "14:30",
         "opponent": "Standaard Meerbeek",
         "home": true,
