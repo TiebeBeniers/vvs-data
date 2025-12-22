@@ -402,19 +402,22 @@
         "goals_against": 36
       }
     ],
-    "next_match": {
-      "date": "20/12/2025",
-      "time": "23:20",
-      "opponent": "Standaard Meerbeek",
-      "home": true
-    },
-    "past_matches": [
+    "matches": [
       {
-        "date": "13/12/2025",
-        "home": "V.V.S Rotselaar",
-        "away": "De Venne Aarschot B",
-        "home_goals": 1,
-        "away_goals": 6
+        "date": "06/09/2025",
+        "time": "14:30",
+        "opponent": "Buffalo Tienen",
+        "home": true,
+        "status": "past",
+        "home_goals": 7,
+        "away_goals": 4
+      },
+      {
+        "date": "03/01/2026",
+        "time": "14:30",
+        "opponent": "Standaard Meerbeek",
+        "home": true,
+        "status": "upcoming"
       }
     ]
   },
@@ -511,19 +514,22 @@
         "goals_against": 62
       }
     ],
-    "next_match": {
-      "date": "11/01/2026",
-      "time": "9u30",
-      "home": false,
-      "opponent": "KFC Herent"
-    },
-    "past_matches": [
+    "matches": [
       {
-        "date": "13/12/2025",
-        "home": "Haacht United",
-        "away": "V.V.S Rotselaar",
-        "home_goals": 2,
-        "away_goals": 5
+        "date": "31/08/2025",
+        "time": "09:30",
+        "opponent": "FC Vilv Heverlee",
+        "home": true,
+        "status": "past",
+        "home_goals": 4,
+        "away_goals": 1
+      },
+      {
+        "date": "11/01/2026",
+        "time": "09:30",
+        "opponent": "KFC Herent",
+        "home": false,
+        "status": "upcoming"
       }
     ]
   }
