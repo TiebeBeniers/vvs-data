@@ -655,6 +655,106 @@
         "away_goals": 1
       },
       {
+        "date": "14/09/2025",
+        "time": "09:30",
+        "opponent": "K.N.V.L.H. Keerbergen",
+        "home": false,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 7
+      },
+      {
+        "date": "21/09/2025",
+        "time": "09:30",
+        "opponent": "Haacht United",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 0
+      },
+      {
+        "date": "28/09/2025",
+        "time": "09:30",
+        "opponent": "KFC Werchter",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 0
+      },
+      {
+        "date": "05/10/2025",
+        "time": "09:30",
+        "opponent": "KFC Herent",
+        "home": true,
+        "status": "past",
+        "home_goals": 7,
+        "away_goals": 1
+      },
+      {
+        "date": "12/10/2025",
+        "time": "09:30",
+        "opponent": "Eendracht Eizer",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 1
+      },
+      {
+        "date": "19/10/2025",
+        "time": "09:30",
+        "opponent": "Sparta Melsbroek",
+        "home": true,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 2
+      },
+      {
+        "date": "26/10/2025",
+        "description": "Bekermatch",
+        "time": "09:30",
+        "opponent": "VC Torenploeg",
+        "home": false,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 1
+      },
+      {
+        "date": "02/11/2025",
+        "time": "09:30",
+        "opponent": "VK Wakkerzeel",
+        "home": false,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 2
+      },
+      {
+        "date": "23/11/2025",
+        "time": "09:30",
+        "opponent": "K.N.V.L.H. Keerbergen",
+        "home": true,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 0
+      },
+      {
+        "date": "07/12/2025",
+        "time": "09:30",
+        "opponent": "KFC Werchter",
+        "home": true,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 3
+      },
+      {
+        "date": "13/12/2025",
+        "time": "09:30",
+        "opponent": "Haacht United",
+        "home": false,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 5
+      },
+      {
         "date": "11/01/2026",
         "time": "09:30",
         "opponent": "KFC Herent",
