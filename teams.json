@@ -162,21 +162,141 @@
         "goals_against": 57
       }
     ],
-    "next_match": {
-      "date": "20/12/2025",
-      "time": "13:00",
-      "home": true,
-      "opponent": "FC Tabor Heverlee"
-    },
-    "past_matches": [
+    "matches": [
       {
-        "date": "05/12/2025",
-        "home": "V.V.S Rotselaar",
-        "away": "VC Bertem-Leefdaal B",
+        "date": "29/08/2025",
+        "time": "20:30",
+        "opponent": "Daring Leuven",
+        "home": true,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 5
+      },
+      {
+        "date": "06/09/2025",
+        "time": "17:00",
+        "opponent": "FC Tabor Heverlee",
+        "home": false,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 1
+      },
+      {
+        "date": "12/09/2025",
+        "time": "20:30",
+        "opponent": "Sportief Rotselaar",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 3
+      },
+      {
+        "date": "19/09/2025",
+        "time": "20:30",
+        "opponent": "VK Wakkerzeel",
+        "home": true,
+        "status": "past",
         "home_goals": 0,
         "away_goals": 1
-      }
-    ]
+      },
+      {
+        "date": "04/10/2025",
+        "time": "15:30",
+        "opponent": "Alpia Tildonk",
+        "home": false,
+        "status": "past",
+        "home_goals": 5,
+        "away_goals": 0
+      },
+      {
+        "date": "10/10/2025",
+        "time": "20:30",
+        "opponent": "V.C. Bertem-Leefdaal A",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 4
+      },
+      {
+        "date": "24/10/2025",
+        "time": "20:30",
+        "opponent": "Korbeek Sport",
+        "home": false,
+        "status": "past",
+        "home_goals": 8,
+        "away_goals": 1
+      },
+      {
+        "date": "17/10/2025",
+        "time": "20:30",
+        "opponent": "KFC Rapide Wezemaal",
+        "home": true,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 3
+      },
+      {
+        "date": "31/10/2025",
+        "time": "20:00",
+        "opponent": "Remy Boys Wijgmaal",
+        "home": false,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 5
+      },
+      {
+        "date": "07/11/2025",
+        "time": "20:30",
+        "opponent": "K.V.C. Kessel Lo 2000",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 4
+      },
+      {
+        "date": "14/11/2025",
+        "time": "20:45",
+        "opponent": "VK Onder Ons Ohr Val",
+        "home": false,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 2
+      },
+      {
+        "date": "21/11/2025",
+        "time": "20:30",
+        "opponent": "St Joris Weert A",
+        "home": true,
+        "status": "past",
+        "home_goals": 1,
+        "away_goals": 0
+      },
+      {
+        "date": "28/11/2025",
+        "time": "20:30",
+        "opponent": "Stormvogels Haasrode",
+        "home": true,
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 7
+      },
+      {
+        "date": "05/12/2025",
+        "time": "20:30",
+        "opponent": "V.C. Bertem-Leefdaal B",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 1
+      },
+      {
+        "date": "09/01/2026",
+        "time": "20:30",
+        "opponent": "FC Tabor Heverlee",
+        "home": true,
+        "status": "upcoming",
+      },
+    ],
   },
 
   "zaterdag": {
