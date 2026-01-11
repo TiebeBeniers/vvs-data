@@ -310,10 +310,10 @@
         "away_goals": 1
       },
       {
-        "date": "09/01/2026",
+        "date": "16/01/2026",
         "time": "20:30",
-        "opponent": "FC Tabor Heverlee",
-        "home": true,
+        "opponent": "Sportief Rotselaar",
+        "home": false,
         "status": "upcoming"
       }
     ]
@@ -542,11 +542,10 @@
         "away_goals": 6
       },
       {
-        "date": "03/01/2026",
-        "description" : "Bekermatch",
+        "date": "017/01/2026",
         "time": "14:30",
-        "opponent": "Standaard Meerbeek",
-        "home": true,
+        "opponent": "Toekomst Bunsbeek",
+        "home": false,
         "status": "upcoming"
       }
     ]
@@ -755,10 +754,10 @@
         "away_goals": 5
       },
       {
-        "date": "27/12/2025",
-        "time": "23:45",
-        "opponent": "KFC Herent",
-        "home": false,
+        "date": "18/01/2026",
+        "time": "09:30",
+        "opponent": "Eendracht Eizer",
+        "home": true,
         "status": "upcoming"
       }
     ]
