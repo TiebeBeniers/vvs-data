@@ -791,18 +791,18 @@
       {
         "date": "18/01/2026",
         "time": "09:30",
-        "opponent": "Eendracht Eizer",
-        "home": true,
-        "status": "upcoming"
-      },
-      {
-        "date": "18/01/2026",
-        "time": "09:30",
         "opponent": "V.K. EENDR. E.I.Z.E.R.",
         "home": true,
         "status": "past",
         "home_goals": 3,
         "away_goals": 0
+      },
+      {
+        "date": "25/01/2026",
+        "time": "09:30",
+        "opponent": "Sparta Melsbroek",
+        "home": false,
+        "status": "upcoming"
       }
     ]
   }
