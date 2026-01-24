@@ -559,11 +559,29 @@
         "away_goals": 6
       },
       {
+        "date": "31/01/2026",
+        "time": "17:15",
+        "opponent": "Knepper Leefdaal B",
+        "home": false,
+        "status": "upcoming"
+      },
+      {
         "date": "17/01/2026",
         "time": "14:30",
         "opponent": "Toekomst Bunsbeek",
         "home": false,
-        "status": "upcoming"
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 2
+      },
+      {
+        "date": "24/01/2026",
+        "time": "14:30",
+        "opponent": "P.E.R.K. Steenokkerzeel Verenigd 1820",
+        "home": true,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 7
       }
     ]
   },
@@ -762,7 +780,7 @@
         "away_goals": 3
       },
       {
-        "date": "13/12/2025",
+        "date": "14/12/2025",
         "time": "09:30",
         "opponent": "Haacht United",
         "home": false,
@@ -776,6 +794,15 @@
         "opponent": "Eendracht Eizer",
         "home": true,
         "status": "upcoming"
+      },
+      {
+        "date": "18/01/2026",
+        "time": "09:30",
+        "opponent": "V.K. EENDR. E.I.Z.E.R.",
+        "home": true,
+        "status": "past",
+        "home_goals": 3,
+        "away_goals": 0
       }
     ]
   }
