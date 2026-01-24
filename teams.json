@@ -336,48 +336,47 @@
       }
     ]
   },
-
   "zaterdag": {
     "ranking": [
       {
         "pos": 1,
-        "team": "Perk Steenokkerzeel 1820",
-        "played": 14,
-        "won": 10,
+        "team": "P.E.R.K. Steenokkerzeel Verenigd 1820",
+        "played": 16,
+        "won": 12,
         "lost": 2,
         "draw": 2,
-        "goals_for": 47,
+        "goals_for": 60,
         "goals_against": 13
       },
       {
         "pos": 2,
         "team": "Buffalo Tienen",
-        "played": 10,
+        "played": 11,
         "won": 7,
         "lost": 2,
-        "draw": 1,
-        "goals_for": 30,
-        "goals_against": 22
+        "draw": 2,
+        "goals_for": 34,
+        "goals_against": 26
       },
       {
         "pos": 3,
         "team": "Toekomst Bunsbeek",
-        "played": 11,
-        "won": 6,
-        "lost": 4,
+        "played": 13,
+        "won": 7,
+        "lost": 5,
         "draw": 1,
-        "goals_for": 42,
-        "goals_against": 41
+        "goals_for": 45,
+        "goals_against": 48
       },
       {
         "pos": 4,
-        "team": "De Venne Aarschot B",
-        "played": 11,
-        "won": 5,
-        "lost": 2,
+        "team": "D.E. V.E.N.N.E. Aarschot B",
+        "played": 13,
+        "won": 6,
+        "lost": 3,
         "draw": 4,
-        "goals_for": 37,
-        "goals_against": 27
+        "goals_for": 43,
+        "goals_against": 30
       },
       {
         "pos": 5,
@@ -391,7 +390,7 @@
       },
       {
         "pos": 6,
-        "team": "FC Massis Zaventem",
+        "team": "F.C. Massis Zaventem",
         "played": 12,
         "won": 5,
         "lost": 5,
@@ -401,43 +400,43 @@
       },
       {
         "pos": 7,
-        "team": "REMY Boys Wijgmaal B",
-        "played": 11,
-        "won": 4,
+        "team": "R.E.M.Y. B.O.Y.S. Wijgmaal B",
+        "played": 12,
+        "won": 5,
         "lost": 6,
         "draw": 1,
-        "goals_for": 22,
-        "goals_against": 27
+        "goals_for": 25,
+        "goals_against": 28
       },
       {
-        "pos": 7,
-        "team": "V.V.S Rotselaar",
-        "played": 12,
+        "pos": 8,
+        "team": "A.L.P.I.A. Tildonk",
+        "played": 15,
         "won": 4,
-        "lost": 7,
-        "draw": 1,
-        "goals_for": 34,
-        "goals_against": 40
+        "lost": 9,
+        "draw": 2,
+        "goals_for": 28,
+        "goals_against": 51
       },
       {
-        "pos": 7,
-        "team": "Alpia Tildonk",
+        "pos": 9,
+        "team": "V.V.S Rotselaar",
         "played": 14,
         "won": 4,
-        "lost": 7,
+        "lost": 9,
         "draw": 1,
-        "goals_for": 24,
-        "goals_against": 47
+        "goals_for": 36,
+        "goals_against": 50
       },
       {
         "pos": 10,
         "team": "Knepper Leefdaal B",
-        "played": 13,
+        "played": 14,
         "won": 3,
-        "lost": 10,
+        "lost": 11,
         "draw": 0,
         "goals_for": 26,
-        "goals_against": 36
+        "goals_against": 42
       }
     ],
     "matches": [
