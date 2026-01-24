@@ -4,162 +4,162 @@
       {
         "pos": 1,
         "team": "Korbeek Sport",
-        "played": 15,
-        "won": 14,
+        "played": 17,
+        "won": 15,
         "lost": 1,
-        "draw": 0,
-        "goals_for": 52,
-        "goals_against": 11
+        "draw": 1,
+        "goals_for": 56,
+        "goals_against": 14
       },
       {
         "pos": 2,
-        "team": "Stormvogels Haasrode",
+        "team": "K.V.C. Kessel Lo 2000",
         "played": 15,
-        "won": 11,
-        "lost": 2,
+        "won": 12,
+        "lost": 1,
         "draw": 2,
-        "goals_for": 63,
-        "goals_against": 28
+        "goals_for": 82,
+        "goals_against": 8
       },
       {
         "pos": 3,
-        "team": "K.V.C. Kessel Lo 2000",
-        "played": 13,
-        "won": 11,
-        "lost": 1,
-        "draw": 1,
-        "goals_for": 77,
-        "goals_against": 6
+        "team": "Stormvogels Haasrode",
+        "played": 16,
+        "won": 12,
+        "lost": 2,
+        "draw": 2,
+        "goals_for": 66,
+        "goals_against": 56
       },
       {
         "pos": 4,
-        "team": "K.F.C. Rapide Wezemaal",
-        "played": 15,
-        "won": 9,
-        "lost": 3,
-        "draw": 3,
-        "goals_for": 49,
-        "goals_against": 33
+        "team": "Alpia Tildonk",
+        "played": 17,
+        "won": 11,
+        "lost": 4,
+        "draw": 2,
+        "goals_for": 56,
+        "goals_against": 34
       },
       {
         "pos": 5,
-        "team": "Alpia Tildonk",
-        "played": 15,
-        "won": 9,
+        "team": "K.F.C. Rapide Wezemaal",
+        "played": 17,
+        "won": 10,
         "lost": 4,
-        "draw": 2,
-        "goals_for": 46,
-        "goals_against": 32
+        "draw": 3,
+        "goals_for": 51,
+        "goals_against": 36
       },
       {
         "pos": 6,
         "team": "VK Wakkerzeel",
-        "played": 15,
-        "won": 8,
-        "lost": 5,
+        "played": 18,
+        "won": 9,
+        "lost": 7,
         "draw": 2,
-        "goals_for": 28,
-        "goals_against": 20
+        "goals_for": 30,
+        "goals_against": 24
       },
       {
         "pos": 7,
-        "team": "REMY Boys Wijgmaal",
-        "played": 15,
-        "won": 6,
-        "lost": 5,
-        "draw": 4,
-        "goals_for": 35,
-        "goals_against": 29
+        "team": "Sportief Rotselaar",
+        "played": 17,
+        "won": 8,
+        "lost": 6,
+        "draw": 3,
+        "goals_for": 53,
+        "goals_against": 41
       },
       {
         "pos": 8,
-        "team": "Sportief Rotselaar",
-        "played": 15,
-        "won": 6,
+        "team": "REMY Boys Wijgmaal",
+        "played": 17,
+        "won": 7,
         "lost": 6,
-        "draw": 3,
-        "goals_for": 45,
-        "goals_against": 40
+        "draw": 4,
+        "goals_for": 39,
+        "goals_against": 31
       },
       {
         "pos": 9,
         "team": "Daring Leuven",
-        "played": 14,
-        "won": 6,
-        "lost": 7,
+        "played": 16,
+        "won": 7,
+        "lost": 8,
         "draw": 1,
-        "goals_for": 37,
-        "goals_against": 37
+        "goals_for": 39,
+        "goals_against": 41
       },
       {
         "pos": 10,
-        "team": "F.C. Tabor Heverlee",
-        "played": 13,
-        "won": 4,
-        "lost": 7,
-        "draw": 2,
-        "goals_for": 17,
-        "goals_against": 33
+        "team": "V.C. Bertem-Leefdaal B",
+        "played": 16,
+        "won": 5,
+        "lost": 10,
+        "draw": 1,
+        "goals_for": 31,
+        "goals_against": 60
       },
       {
         "pos": 11,
-        "team": "V.C. Bertem-Leefdaal B",
-        "played": 14,
+        "team": "F.C. Tabor Heverlee",
+        "played": 15,
         "won": 4,
         "lost": 9,
-        "draw": 1,
-        "goals_for": 27,
-        "goals_against": 56
+        "draw": 2,
+        "goals_for": 20,
+        "goals_against": 39
       },
       {
         "pos": 12,
         "team": "V.C. Bertem-Leefdaal A",
-        "played": 16,
+        "played": 18,
         "won": 4,
-        "lost": 11,
+        "lost": 13,
         "draw": 1,
-        "goals_for": 31,
-        "goals_against": 61
+        "goals_for": 32,
+        "goals_against": 66
       },
       {
         "pos": 13,
         "team": "V.V.S Rotselaar",
-        "played": 14,
-        "won": 3,
-        "lost": 10,
+        "played": 16,
+        "won": 4,
+        "lost": 11,
         "draw": 1,
-        "goals_for": 16,
-        "goals_against": 47
+        "goals_for": 18,
+        "goals_against": 52
       },
       {
         "pos": 14,
         "team": "VK Onder Ons Ohr Val",
-        "played": 16,
-        "won": 2,
-        "lost": 10,
+        "played": 18,
+        "won": 3,
+        "lost": 11,
         "draw": 4,
-        "goals_for": 28,
-        "goals_against": 50
+        "goals_for": 30,
+        "goals_against": 56
       },
       {
         "pos": 15,
         "team": "St. Joris Weert A",
-        "played": 14,
+        "played": 15,
         "won": 2,
-        "lost": 9,
+        "lost": 10,
         "draw": 3,
-        "goals_for": 16,
-        "goals_against": 40
+        "goals_for": 18,
+        "goals_against": 45
       },
       {
         "pos": 16,
         "team": "St. Joris Weert B",
-        "played": 11,
+        "played": 12,
         "won": 1,
-        "lost": 10,
+        "lost": 11,
         "draw": 0,
         "goals_for": 13,
-        "goals_against": 57
+        "goals_against": 59
       }
     ],
     "matches": [
@@ -285,7 +285,7 @@
       {
         "date": "21/11/2025",
         "time": "20:30",
-        "opponent": "St Joris Weert A",
+        "opponent": "St. Joris Weert A",
         "home": true,
         "status": "past",
         "home_goals": 1,
@@ -313,6 +313,24 @@
         "date": "16/01/2026",
         "time": "20:30",
         "opponent": "Sportief Rotselaar",
+        "home": false,
+        "status": "past",
+        "home_goals": 5,
+        "away_goals": 1
+      },
+      {
+        "date": "23/01/2026",
+        "time": "20:30",
+        "opponent": "Vk Wakkerzeel",
+        "home": false,
+        "status": "past",
+        "home_goals": 0,
+        "away_goals": 1
+      },
+      {
+        "date": "30/01/2026",
+        "time": "20:30",
+        "opponent": "St. Joris Weert B",
         "home": false,
         "status": "upcoming"
       }
