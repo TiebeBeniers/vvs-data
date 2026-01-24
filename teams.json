@@ -3,7 +3,7 @@
     "ranking": [
       {
         "pos": 1,
-        "team": "Korbeek S.P.O.R.T.",
+        "team": "Korbeek Sport",
         "played": 17,
         "won": 15,
         "lost": 1,
@@ -33,7 +33,7 @@
       },
       {
         "pos": 4,
-        "team": "A.L.P.I.A. Tildonk",
+        "team": "Alpia Tildonk",
         "played": 17,
         "won": 11,
         "lost": 4,
@@ -73,7 +73,7 @@
       },
       {
         "pos": 8,
-        "team": "R.E.M.Y. B.O.Y.S. Wijgmaal",
+        "team": "Remy Boys Wijgmaal",
         "played": 17,
         "won": 7,
         "lost": 6,
@@ -103,7 +103,7 @@
       },
       {
         "pos": 11,
-        "team": "F.C. T.A.B.O.R. Heverlee V.Z.W.",
+        "team": "F.C. Tabor Heverlee V.Z.W.",
         "played": 15,
         "won": 4,
         "lost": 9,
@@ -133,7 +133,7 @@
       },
       {
         "pos": 14,
-        "team": "V.K. O.N.D.E.R. O.N.S. O.H.R. V.A.L.",
+        "team": "V.K. Onder O.N.S. O.H.R. V.A.L.",
         "played": 18,
         "won": 3,
         "lost": 11,
@@ -143,7 +143,7 @@
       },
       {
         "pos": 15,
-        "team": "S.T. J.O.R.I.S. W.E.E.R.T. A",
+        "team": "S.T. Joris Weert A",
         "played": 15,
         "won": 2,
         "lost": 10,
@@ -153,7 +153,7 @@
       },
       {
         "pos": 16,
-        "team": "S.T. J.O.R.I.S. W.E.E.R.T. B",
+        "team": "S.T. Joris Weert B",
         "played": 12,
         "won": 1,
         "lost": 11,
@@ -340,7 +340,7 @@
     "ranking": [
       {
         "pos": 1,
-        "team": "P.E.R.K. Steenokkerzeel Verenigd 1820",
+        "team": "Perk Steenokkerzeel Verenigd 1820",
         "played": 16,
         "won": 12,
         "lost": 2,
@@ -370,7 +370,7 @@
       },
       {
         "pos": 4,
-        "team": "D.E. V.E.N.N.E. Aarschot B",
+        "team": "D.E. Venne Aarschot B",
         "played": 13,
         "won": 6,
         "lost": 3,
@@ -400,7 +400,7 @@
       },
       {
         "pos": 7,
-        "team": "R.E.M.Y. B.O.Y.S. Wijgmaal B",
+        "team": "Remy Boys Wijgmaal B",
         "played": 12,
         "won": 5,
         "lost": 6,
@@ -410,7 +410,7 @@
       },
       {
         "pos": 8,
-        "team": "A.L.P.I.A. Tildonk",
+        "team": "Alpia Tildonk",
         "played": 15,
         "won": 4,
         "lost": 9,
@@ -619,7 +619,7 @@
       },
       {
         "pos": 4,
-        "team": "V.K. EENDR. E.I.Z.E.R.",
+        "team": "V.K. EENDR. Eizer",
         "played": 13,
         "won": 7,
         "lost": 2,
@@ -659,7 +659,7 @@
       },
       {
         "pos": 8,
-        "team": "F.C. V.I.L.V. Heverlee",
+        "team": "F.C. Vilv Heverlee",
         "played": 13,
         "won": 1,
         "lost": 10,
