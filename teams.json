@@ -3,7 +3,7 @@
     "ranking": [
       {
         "pos": 1,
-        "team": "Korbeek Sport",
+        "team": "Korbeek S.P.O.R.T.",
         "played": 17,
         "won": 15,
         "lost": 1,
@@ -13,7 +13,7 @@
       },
       {
         "pos": 2,
-        "team": "K.V.C. Kessel Lo 2000",
+        "team": "K.V.C. Kessel L.O. 2000",
         "played": 15,
         "won": 12,
         "lost": 1,
@@ -22,18 +22,18 @@
         "goals_against": 8
       },
       {
-        "pos": 3,
+        "pos": 2,
         "team": "Stormvogels Haasrode",
         "played": 16,
         "won": 12,
         "lost": 2,
         "draw": 2,
         "goals_for": 66,
-        "goals_against": 56
+        "goals_against": 28
       },
       {
         "pos": 4,
-        "team": "Alpia Tildonk",
+        "team": "A.L.P.I.A. Tildonk",
         "played": 17,
         "won": 11,
         "lost": 4,
@@ -53,7 +53,7 @@
       },
       {
         "pos": 6,
-        "team": "VK Wakkerzeel",
+        "team": "V.K. Wakkerzeel",
         "played": 18,
         "won": 9,
         "lost": 7,
@@ -73,7 +73,7 @@
       },
       {
         "pos": 8,
-        "team": "REMY Boys Wijgmaal",
+        "team": "R.E.M.Y. B.O.Y.S. Wijgmaal",
         "played": 17,
         "won": 7,
         "lost": 6,
@@ -93,7 +93,7 @@
       },
       {
         "pos": 10,
-        "team": "V.C. Bertem-Leefdaal B",
+        "team": "V.C. Bertem-leefdaal B",
         "played": 16,
         "won": 5,
         "lost": 10,
@@ -103,7 +103,7 @@
       },
       {
         "pos": 11,
-        "team": "F.C. Tabor Heverlee",
+        "team": "F.C. T.A.B.O.R. Heverlee V.Z.W.",
         "played": 15,
         "won": 4,
         "lost": 9,
@@ -113,7 +113,7 @@
       },
       {
         "pos": 12,
-        "team": "V.C. Bertem-Leefdaal A",
+        "team": "V.C. Bertem-leefdaal A",
         "played": 18,
         "won": 4,
         "lost": 13,
@@ -122,7 +122,7 @@
         "goals_against": 66
       },
       {
-        "pos": 13,
+        "pos": 12,
         "team": "V.V.S Rotselaar",
         "played": 16,
         "won": 4,
@@ -133,7 +133,7 @@
       },
       {
         "pos": 14,
-        "team": "VK Onder Ons Ohr Val",
+        "team": "V.K. O.N.D.E.R. O.N.S. O.H.R. V.A.L.",
         "played": 18,
         "won": 3,
         "lost": 11,
@@ -143,7 +143,7 @@
       },
       {
         "pos": 15,
-        "team": "St. Joris Weert A",
+        "team": "S.T. J.O.R.I.S. W.E.E.R.T. A",
         "played": 15,
         "won": 2,
         "lost": 10,
@@ -153,7 +153,7 @@
       },
       {
         "pos": 16,
-        "team": "St. Joris Weert B",
+        "team": "S.T. J.O.R.I.S. W.E.E.R.T. B",
         "played": 12,
         "won": 1,
         "lost": 11,
@@ -571,43 +571,43 @@
     "ranking": [
       {
         "pos": 1,
-        "team": "VK Wakkerzeel",
-        "played": 12,
-        "won": 9,
+        "team": "V.K. Wakkerzeel",
+        "played": 13,
+        "won": 10,
         "lost": 2,
         "draw": 1,
-        "goals_for": 39,
+        "goals_for": 40,
         "goals_against": 21
       },
       {
         "pos": 2,
-        "team": "V.K. Eendracht Eizer",
-        "played": 12,
-        "won": 7,
-        "lost": 1,
-        "draw": 4,
-        "goals_for": 39,
-        "goals_against": 8
-      },
-      {
-        "pos": 3,
         "team": "V.V.S Rotselaar",
-        "played": 11,
-        "won": 7,
+        "played": 12,
+        "won": 8,
         "lost": 1,
         "draw": 3,
-        "goals_for": 35,
+        "goals_for": 38,
         "goals_against": 11
       },
       {
-        "pos": 3,
+        "pos": 2,
         "team": "K.F.C. Werchter",
-        "played": 12,
-        "won": 7,
+        "played": 13,
+        "won": 8,
         "lost": 2,
         "draw": 3,
-        "goals_for": 30,
+        "goals_for": 40,
         "goals_against": 16
+      },
+      {
+        "pos": 4,
+        "team": "V.K. EENDR. E.I.Z.E.R.",
+        "played": 13,
+        "won": 7,
+        "lost": 2,
+        "draw": 4,
+        "goals_for": 39,
+        "goals_against": 11
       },
       {
         "pos": 5,
@@ -621,43 +621,43 @@
       },
       {
         "pos": 6,
-        "team": "Haacht United",
-        "played": 12,
+        "team": "Koninklijke Haacht United",
+        "played": 13,
         "won": 6,
-        "lost": 5,
+        "lost": 6,
         "draw": 1,
         "goals_for": 38,
-        "goals_against": 19
+        "goals_against": 21
       },
       {
         "pos": 7,
         "team": "K.F.C. Herent",
-        "played": 12,
-        "won": 2,
+        "played": 13,
+        "won": 3,
         "lost": 10,
         "draw": 0,
-        "goals_for": 11,
+        "goals_for": 13,
         "goals_against": 67
       },
       {
         "pos": 8,
-        "team": "FC Vilv Heverlee",
-        "played": 12,
+        "team": "F.C. V.I.L.V. Heverlee",
+        "played": 13,
         "won": 1,
-        "lost": 9,
+        "lost": 10,
         "draw": 2,
         "goals_for": 13,
-        "goals_against": 39
+        "goals_against": 40
       },
       {
         "pos": 9,
         "team": "K.N.V.L.H. Keerbergen",
-        "played": 12,
+        "played": 13,
         "won": 0,
-        "lost": 12,
+        "lost": 13,
         "draw": 0,
         "goals_for": 5,
-        "goals_against": 62
+        "goals_against": 72
       }
     ],
     "matches": [
