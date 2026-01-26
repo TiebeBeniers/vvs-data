@@ -798,11 +798,20 @@
         "away_goals": 0
       },
       {
+        "date": "01/02/2026",
+        "time": "09:30",
+        "opponent": "Vk Wakkerzeel",
+        "home": true,
+        "status": "upcoming"
+      },
+      {
         "date": "25/01/2026",
         "time": "09:30",
         "opponent": "Sparta Melsbroek",
         "home": false,
-        "status": "upcoming"
+        "status": "past",
+        "home_goals": 2,
+        "away_goals": 1
       }
     ]
   }
