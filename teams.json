@@ -599,83 +599,83 @@
       },
       {
         "pos": 2,
-        "team": "V.V.S Rotselaar",
-        "played": 12,
-        "won": 8,
-        "lost": 1,
+        "team": "K.F.C. Werchter",
+        "played": 14,
+        "won": 9,
+        "lost": 2,
         "draw": 3,
-        "goals_for": 38,
-        "goals_against": 11
+        "goals_for": 42,
+        "goals_against": 17
       },
       {
-        "pos": 2,
-        "team": "K.F.C. Werchter",
+        "pos": 3,
+        "team": "V.V.S Rotselaar",
         "played": 13,
         "won": 8,
         "lost": 2,
         "draw": 3,
-        "goals_for": 40,
-        "goals_against": 16
+        "goals_for": 39,
+        "goals_against": 13
       },
       {
         "pos": 4,
         "team": "V.K. EENDR. Eizer",
-        "played": 13,
+        "played": 14,
         "won": 7,
-        "lost": 2,
+        "lost": 3,
         "draw": 4,
-        "goals_for": 39,
-        "goals_against": 11
+        "goals_for": 40,
+        "goals_against": 13
       },
       {
         "pos": 5,
         "team": "Sparta Melsbroek",
-        "played": 13,
-        "won": 6,
+        "played": 14,
+        "won": 7,
         "lost": 5,
         "draw": 2,
-        "goals_for": 51,
-        "goals_against": 28
+        "goals_for": 53,
+        "goals_against": 29
       },
       {
         "pos": 6,
         "team": "Koninklijke Haacht United",
-        "played": 13,
-        "won": 6,
+        "played": 14,
+        "won": 7,
         "lost": 6,
         "draw": 1,
-        "goals_for": 38,
-        "goals_against": 21
+        "goals_for": 40,
+        "goals_against": 22
       },
       {
         "pos": 7,
         "team": "K.F.C. Herent",
-        "played": 13,
+        "played": 14,
         "won": 3,
-        "lost": 10,
+        "lost": 11,
         "draw": 0,
-        "goals_for": 13,
-        "goals_against": 67
+        "goals_for": 14,
+        "goals_against": 69
       },
       {
         "pos": 8,
         "team": "F.C. Vilv Heverlee",
-        "played": 13,
-        "won": 1,
+        "played": 14,
+        "won": 2,
         "lost": 10,
         "draw": 2,
-        "goals_for": 13,
+        "goals_for": 21,
         "goals_against": 40
       },
       {
         "pos": 9,
         "team": "K.N.V.L.H. Keerbergen",
-        "played": 13,
+        "played": 14,
         "won": 0,
-        "lost": 13,
+        "lost": 14,
         "draw": 0,
         "goals_for": 5,
-        "goals_against": 72
+        "goals_against": 80
       }
     ],
     "matches": [
